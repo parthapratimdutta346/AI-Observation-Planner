@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1 Score,Training Time (sec)
+CatBoost,99.06,99.06,99.06,99.06,34.86
+LightGBM,98.94,98.94,98.94,98.94,5.04
+XGBoost,98.86,98.86,98.86,98.86,5.36
+Random Forest,98.28,98.28,98.28,98.28,20.66
+Decision Tree,97.78,97.78,97.78,97.78,0.44
